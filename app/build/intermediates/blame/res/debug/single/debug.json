@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_shape_navigation.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\bottom_shape_navigation.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fotoq.jpg.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\fotoq.jpg"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fotoq_foreground.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxhdpi\\fotoq_foreground.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fotoq.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xhdpi\\fotoq.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fotoq_foreground.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xhdpi\\fotoq_foreground.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fotoq.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-hdpi\\fotoq.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fotoq_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xhdpi\\fotoq_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fotoq_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-hdpi\\fotoq_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fotoq_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-mdpi\\fotoq_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simpan.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\simpan.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fotoq_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxhdpi\\fotoq_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_fotoq_round.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-anydpi-v26\\fotoq_round.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_pink_24dp.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\ic_home_pink_24dp.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_pink_24dp.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\ic_search_pink_24dp.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fotoq_foreground.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-hdpi\\fotoq_foreground.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fotoq.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-mdpi\\fotoq.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_pink_24dp.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\ic_info_pink_24dp.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_fotoq.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-anydpi-v26\\fotoq.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fotoq.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxxhdpi\\fotoq.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fotoq_foreground.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-mdpi\\fotoq_foreground.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fotoq.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxhdpi\\fotoq.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fotoq_foreground.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxxhdpi\\fotoq_foreground.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fotoq_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxxhdpi\\fotoq_round.png"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Task_8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Task_8\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
